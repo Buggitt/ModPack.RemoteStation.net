@@ -2,8 +2,10 @@ h1 {
     text-align:center;
 }
 main {
-      padding-left:20%;
-      padding-right:20%;
+      margin-top:0px;
+      margin-left:20%;
+      margin-right:20%;
+      background-color:lightgrey;
 }
 body {
       font-family:roboto;
