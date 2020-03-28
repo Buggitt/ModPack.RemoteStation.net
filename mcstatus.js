@@ -1,3 +1,4 @@
+//Modified code from here: https://codepen.io/nodws/pen/ZLLXXq
 //based on a pen by @robinselmer
 var url = "https://api.minetools.eu/ping/modpack.remotestation.net";
 //https://mcapi.us/server/status?ip=666.fluctis.com&port=25757
