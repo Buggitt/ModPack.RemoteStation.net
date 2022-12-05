@@ -28,6 +28,10 @@ article{
     margin-bottom:10px;
 
 }
+footer{
+    margin-top:20px;
+    margin-bottom:20px;
+}
 .post{
     outline: solid;
     border-radius: 10px 40px 20px;
