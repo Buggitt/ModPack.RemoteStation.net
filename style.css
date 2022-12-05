@@ -27,3 +27,11 @@ article{
     margin-bottom:10px;
 
 }
+.post{
+    outline: solid;
+    border-radius: 10px 40px 20px;
+
+    /* width: 400px; */
+    padding: 10px;
+    margin: 20px;
+        }
