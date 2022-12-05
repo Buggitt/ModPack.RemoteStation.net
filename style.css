@@ -14,13 +14,14 @@ h1 {
     padding-bottom:20px;
 }
 main {
-      margin-top:0px;
-      margin-left:20%;
-      margin-right:20%;
+      
      
 }
 body {
       font-family: 'Roboto Mono';
+      margin-top:0px;
+      margin-left:20%;
+      margin-right:20%;
 }
 article{
     margin-top:10xp;
