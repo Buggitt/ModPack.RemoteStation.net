@@ -22,6 +22,7 @@ body {
       margin-top:0px;
       margin-left:20%;
       margin-right:20%;
+      min-width:700px;
 }
 article{
     margin-top:10xp;
