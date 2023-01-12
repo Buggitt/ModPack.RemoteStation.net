@@ -20,9 +20,9 @@ main {
 body {
       font-family: 'Roboto Mono';
       margin-top:0px;
-      margin-left:20%;
-      margin-right:20%;
-      min-width:700px;
+      min-width:500px;
+      max-width:1400px;
+      margin:auto;
 }
 article{
     margin-top:10xp;
