@@ -44,7 +44,9 @@ footer{
         }
 img{
     height:80px;
-    margin-left:20px;
+    margin-left:30px;
 
 }
-
+.post:nth-of-type(1) {
+  outline-color: #d5c912;
+}
